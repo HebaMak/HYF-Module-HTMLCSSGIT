@@ -9,7 +9,7 @@
 
   $ attrib -h test   // unhide test folder
 
-
+  $ ls  // displays all files and folders eeven hidden
 --------------------------------------
 
 2- How do I create multiple nested directories, like /c/Users/myusername/these/folders/are/just/for/fun?
